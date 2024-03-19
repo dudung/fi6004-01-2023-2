@@ -1,6 +1,6 @@
 # fi6004-01-2023-2
 Physical Data Processing course 01 class in 2023-2 semester Feb-May 2023
-+ `20-mar-2024` NumPy array and observation: Some initialization and sampling examples ([slide](https://osf.io/ewp5s), [task](https://github.com/dudung/fi6004-01-2023-2/issues/4))
++ `19-mar-2024` NumPy array and observation: Some initialization and sampling examples ([slide](https://osf.io/ewp5s), [task](https://github.com/dudung/fi6004-01-2023-2/issues/4))
 + `13-mar-2024` Introduction to Fourier series and analysis ([slide-1](https://osf.io/eupys), [slide-2](https://osf.io/ukcmw), [task](https://github.com/dudung/fi6004-01-2023-2/issues/4))
 + `05-mar-2024` FFT in Python ([slide](https://osf.io/k6mr9), [task](https://github.com/dudung/fi6004-01-2023-2/issues/3), [lms](https://edunex.itb.ac.id/courses/58272/preview/237166))
 + `28-feb-2024` FFT in Python: A Hands-on (slide, [task](https://github.com/dudung/fi6004-01-2023-2/issues/2), [lms](https://edunex.itb.ac.id/courses/58272/preview/237166)) &rightarrow; [examples](https://github.com/dudung/py-jupyter-nb/tree/main/src/apply/fft)
